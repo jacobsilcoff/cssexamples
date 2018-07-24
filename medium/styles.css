@@ -1,0 +1,22 @@
+h1 {
+    border-style: solid;
+    border-radius: 10px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    background-color: rgba(255,255,255,.6);
+    text-shadow: 2px 2px red;
+    
+}
+
+body {
+    background-color: #6095ea;
+}
+
+#right{
+    text-align: right;
+}
+
+#justify{ 
+    text-align:justify;
+}
